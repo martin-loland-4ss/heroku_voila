@@ -1,0 +1,6 @@
+ipyvuetify==1.6.1
+voila==0.2.6
+numpy==1.18.1
+pandas==1.2.0
+bqplot==0.12.21
+ipywidgets==7.5.1
